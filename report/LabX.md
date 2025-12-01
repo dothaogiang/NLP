@@ -108,5 +108,5 @@ Level 3 (Generative TTS) thường gặp lỗi "ảo giác" (hallucination) do b
 
 ---
 
-_Người thực hiện báo cáo: [Tên của bạn/Nhóm của bạn]_
-_Ngày thực hiện: [Ngày/Tháng/Năm]_
+_Người thực hiện báo cáo: [Đỗ Thảo Giang]_
+_Ngày thực hiện: [01/12/2025]_
